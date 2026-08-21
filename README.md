@@ -1,24 +1,3 @@
-
-/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Readme · MD
 # Option Pricing Engine
  
 A Python implementation of European option pricing, built from scratch using two independent methods: the closed form Black Scholes formula and Monte Carlo simulation. This project was built as a way to develop a genuine, defensible understanding of option pricing, rather than to produce the widest possible feature set.
